@@ -1,6 +1,6 @@
-# cowboy activities
+# dotfiles
 
-Intended purpose is to house my dotfiles, scripts, and anything inbetween.
+Intended purpose is to house my dotfiles and anything else related to my configs.
 
 ## Stow
 
